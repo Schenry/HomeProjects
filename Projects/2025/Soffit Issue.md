@@ -1,3 +1,3 @@
 * Need to plug before Winter
 
-![[soffit.jpg]]
+![soffit](soffit.jpg)
