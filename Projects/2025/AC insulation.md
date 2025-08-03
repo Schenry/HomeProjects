@@ -1,2 +1,2 @@
 * Needs to be repaired / replaced
-![[AC_insulation.jpg]]
+![insulation][images/AC_insulation.jpg]]

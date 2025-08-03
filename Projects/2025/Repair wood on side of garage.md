@@ -1,2 +1,2 @@
 * Wood fill and paint?
-![[garage.jpg]]]
+![[../images/garage.jpg]]]
