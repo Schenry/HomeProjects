@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "56fb9d35fc86fa20",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d99192e017d4f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c467f32e98b03dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attic Wallboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attic Wallboard"
+            }
+          },
+          {
+            "id": "746fb8db49c37cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soffit Issue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soffit Issue"
+            }
+          },
+          {
+            "id": "2f41eb71d4a47b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fence repair.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fence repair"
+            }
+          },
+          {
+            "id": "8ae472d17be80213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sandbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sandbox"
+            }
+          },
+          {
+            "id": "05a273569f11e261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keezer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keezer"
+            }
+          },
+          {
+            "id": "6990af1f3d3b4da1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halloween Decorations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Halloween Decorations"
+            }
+          },
+          {
+            "id": "21096886c3dd263e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repair wood on side of garage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Repair wood on side of garage"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a62861715c1747a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6b87afb273f15cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36544d3a3fbd8c8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a17964c188d8fae8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a0de4c0b6cececb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be42f22a8164a3f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0b0868a90a6f6fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4118c59e1e65b997",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Repair wood on side of garage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Repair wood on side of garage"
+            }
+          },
+          {
+            "id": "28823fde5553a6e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Repair wood on side of garage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Repair wood on side of garage"
+            }
+          },
+          {
+            "id": "3ee90d56ffff7629",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2dac4a5a439dfdf6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Repair wood on side of garage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Repair wood on side of garage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "21096886c3dd263e",
+  "lastOpenFiles": [
+    "Halloween Decorations.md",
+    "Repair wood on side of garage.md",
+    "Keezer.md",
+    "Sandbox.md",
+    "Fence repair.md",
+    "Soffit Issue.md",
+    "Attic Wallboard.md",
+    "Welcome.md",
+    "2025"
+  ]
+}
